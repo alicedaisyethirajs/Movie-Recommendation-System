@@ -15,3 +15,7 @@ This is a simple Movie Recommendation System built using Python. It uses natural
 - Vectorization ( converting text into numbers)
 - Cosine similarity to find similarity between the vectors
 - Diflib to fuzzy match titles
+
+**OUTPUT**
+
+<img width="226" alt="image" src="https://github.com/user-attachments/assets/a138db24-f038-46f7-9201-2993230b29b0" />
